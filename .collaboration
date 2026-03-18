@@ -464,4 +464,40 @@
   "resourcePaths" : [ "documents/logic/服务端逻辑/0318_1/查询0318_1详情.json", "documents/logic/服务端逻辑/0318_1/查询0318_1详情.metadata.json", "documents/logic/服务端逻辑/0318_1/查询0318_1详情.refId.json", "documents/ref-object/OQ4U3ZSZ.json", "documents/ref-object/OQ4U3ZSZ.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "OQ4U3ZSZ"
+}, {
+  "moduleType" : "datasource",
+  "moduleName" : "ORACLE",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:24:27.4467537Z",
+  "resourcePaths" : [ "documents/datasource/ORACLE.json", "documents/datasource/ORACLE.metadata.json", "documents/datasource/ORACLE.refId.json", "documents/ref-object/AGAAXLJL.json", "documents/ref-object/AGAAXLJL.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "AGAAXLJL"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:24:27.4467537Z",
+  "resourcePaths" : [ "documents/entity/ORACLE", "documents/entity/ORACLE/.f.metadata.json", "documents/entity/ORACLE/.f.json", "documents/ref-object/GL416BN9.json", "documents/ref-object/GL416BN9.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "GL416BN9"
+}, {
+  "moduleType" : "entity-relation",
+  "moduleName" : "ORACLE",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:24:27.4467537Z",
+  "resourcePaths" : [ "documents/entity-relation/ORACLE", "documents/entity-relation/ORACLE/.f.metadata.json", "documents/entity-relation/ORACLE/.f.json", "documents/ref-object/TEXY561Y.json", "documents/ref-object/TEXY561Y.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "TEXY561Y"
 } ]
