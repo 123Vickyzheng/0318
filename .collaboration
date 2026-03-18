@@ -293,13 +293,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "sqlserver/0318",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T02:55:21.5229444Z",
-  "resourcePaths" : [ "documents/entity/sqlserver/0318.json", "documents/entity/sqlserver/0318.metadata.json", "documents/entity/sqlserver/0318.refId.json", "documents/ref-object/GXSCVNBC.json", "documents/ref-object/GXSCVNBC.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "GXSCVNBC"
 }, {
@@ -317,13 +311,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "sqlserver/0318_1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T02:55:21.5229444Z",
-  "resourcePaths" : [ "documents/entity/sqlserver/0318_1.json", "documents/entity/sqlserver/0318_1.metadata.json", "documents/entity/sqlserver/0318_1.refId.json", "documents/ref-object/VN5KGAJI.json", "documents/ref-object/VN5KGAJI.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "VN5KGAJI"
 } ]
