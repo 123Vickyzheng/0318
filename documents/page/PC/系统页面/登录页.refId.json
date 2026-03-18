@@ -1,0 +1,23 @@
+{
+  "V8DCIZG7" : "LoginConfig",
+  "FLXEQHY8" : "获取登录配置",
+  "YB9NQ9MT" : "config",
+  "MZAP7P93" : "config",
+  "X0WV34Y1" : "userName",
+  "ELQ29LH5" : "password",
+  "EAQHKMP0" : "rememberMe",
+  "V5RIBGIP" : "message",
+  "K16BXOFQ" : "success",
+  "LA6KZX4C" : "isValid",
+  "O3YG53G5" : "登录",
+  "RIY7LB2A" : "userName",
+  "ZUFEDJ76" : "password",
+  "Y5173Z3D" : "rememberMe",
+  "KVSUDRDE" : "message",
+  "XAE04PMI" : "success",
+  "SS7KU61P.validate" : "表单.validate",
+  "isValid" : "isValid",
+  "NFHBEQ0O" : "redirect",
+  "W0WM8TCW" : "loginError",
+  "Length" : "Length"
+}

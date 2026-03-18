@@ -1,0 +1,21 @@
+{
+  "id" : "UEE5MKMO",
+  "name" : "删除实体1",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ {
+    "id" : "EQNIJPBO",
+    "name" : "主键",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "M4QJMBUM",
+    "name" : "删除行数",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ]
+}

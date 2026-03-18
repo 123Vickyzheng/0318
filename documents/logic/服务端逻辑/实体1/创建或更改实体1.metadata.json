@@ -1,0 +1,15 @@
+{
+  "id" : "HSJU83HD",
+  "name" : "创建或更改实体1",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ {
+    "id" : "M0LCU7RN",
+    "name" : "实体",
+    "dataType" : {
+      "typeId" : "CB017PNA"
+    }
+  } ],
+  "variables" : [ ],
+  "returnValues" : [ ]
+}

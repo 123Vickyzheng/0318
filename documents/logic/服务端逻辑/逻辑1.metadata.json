@@ -1,0 +1,9 @@
+{
+  "id" : "AB7PLM14",
+  "name" : "逻辑1",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ ],
+  "variables" : [ ],
+  "returnValues" : [ ]
+}

@@ -1,0 +1,21 @@
+{
+  "id" : "WUGGLH77",
+  "name" : "更改实体1",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ {
+    "id" : "ZK2X2HNQ",
+    "name" : "实体",
+    "dataType" : {
+      "typeId" : "CB017PNA"
+    }
+  } ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "DFT9O1F4",
+    "name" : "更改行数",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ]
+}

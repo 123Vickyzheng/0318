@@ -1,0 +1,17 @@
+{
+  "projectType" : "Collaboration",
+  "appName" : "0318",
+  "ideVersion" : "0.0.1",
+  "branchName" : "master",
+  "repoUrl" : "https://github.com/123Vickyzheng/0318.git",
+  "customConfigs" : [ ],
+  "static-resource" : { },
+  "theme-resources" : { },
+  "page" : { },
+  "login" : {
+    "authenticationMode" : "normal"
+  },
+  "designer-data" : {
+    "dataSyncBehavior" : "ask"
+  }
+}

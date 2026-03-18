@@ -1,0 +1,21 @@
+{
+  "id" : "XBL5J10J",
+  "name" : "创建实体1",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ {
+    "id" : "EBMMUO21",
+    "name" : "实体",
+    "dataType" : {
+      "typeId" : "CB017PNA"
+    }
+  } ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "RK3X7NBA",
+    "name" : "实体主键",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ]
+}
