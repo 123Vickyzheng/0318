@@ -15,16 +15,10 @@
   "resourceType" : "File"
 }, {
   "moduleType" : "theme",
-  "moduleName" : "默认主题",
+  "moduleName" : "商务主题",
   "state" : "Unlocked",
   "resourceType" : "Document",
-  "resourceId" : "phoenix.builtin.normal"
-}, {
-  "moduleType" : "theme",
-  "moduleName" : "清新主题",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "phoenix.builtin.fresh"
+  "resourceId" : "phoenix.builtin.business"
 }, {
   "moduleType" : "theme",
   "moduleName" : "教育主题",
@@ -33,22 +27,28 @@
   "resourceId" : "phoenix.builtin.education"
 }, {
   "moduleType" : "theme",
+  "moduleName" : "暗色主题",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "phoenix.builtin.dark-night"
+}, {
+  "moduleType" : "theme",
+  "moduleName" : "清新主题",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "phoenix.builtin.fresh"
+}, {
+  "moduleType" : "theme",
   "moduleName" : "电商主题",
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.ecommerce"
 }, {
   "moduleType" : "theme",
-  "moduleName" : "商务主题",
+  "moduleName" : "默认主题",
   "state" : "Unlocked",
   "resourceType" : "Document",
-  "resourceId" : "phoenix.builtin.business"
-}, {
-  "moduleType" : "theme",
-  "moduleName" : "暗色主题",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "phoenix.builtin.dark-night"
+  "resourceId" : "phoenix.builtin.normal"
 }, {
   "moduleType" : "global-event-handler",
   "moduleName" : "客户端全局事件",
@@ -62,17 +62,53 @@
   "resourceType" : "Document",
   "resourceId" : "ASHF7PNK"
 }, {
-  "moduleType" : "static-resource",
-  "moduleName" : "文件",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "VBVBFAOM"
-}, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑",
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "server"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/实体1",
+  "state" : "Unlocked",
+  "resourceType" : "Folder",
+  "resourceId" : "QKQ1IZIU"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/实体1/创建实体1",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "XBL5J10J"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/实体1/创建或更改实体1",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "HSJU83HD"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/实体1/删除实体1",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "UEE5MKMO"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/实体1/更改实体1",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "WUGGLH77"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/实体1/查询实体1",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "XES8UHQK"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/实体1/查询实体1详情",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "FR4LQMVF"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/系统逻辑",
@@ -97,48 +133,6 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "AB7PLM14"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "QKQ1IZIU"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1/创建实体1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "XBL5J10J"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1/创建或更改实体1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "HSJU83HD"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1/更改实体1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "WUGGLH77"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1/删除实体1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "UEE5MKMO"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1/查询实体1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "XES8UHQK"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1/查询实体1详情",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "FR4LQMVF"
 }, {
   "moduleType" : "logic",
   "moduleName" : "集成",
@@ -195,12 +189,6 @@
   "resourceId" : "ZN6S4HC4"
 }, {
   "moduleType" : "page",
-  "moduleName" : "PC/系统页面/登录页",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "KI37J3MF"
-}, {
-  "moduleType" : "page",
   "moduleName" : "PC/系统页面/403无权限页面",
   "state" : "Unlocked",
   "resourceType" : "Document",
@@ -211,6 +199,12 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "HW8BS3IE"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PC/系统页面/登录页",
+  "state" : "Unlocked",
+  "resourceType" : "Document",
+  "resourceId" : "KI37J3MF"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面1",
@@ -235,6 +229,12 @@
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "XQJ7SZKS"
+}, {
+  "moduleType" : "static-resource",
+  "moduleName" : "文件",
+  "state" : "Unlocked",
+  "resourceType" : "Folder",
+  "resourceId" : "VBVBFAOM"
 }, {
   "moduleType" : "type",
   "moduleName" : "枚举",
@@ -301,83 +301,11 @@
   "moduleName" : "默认数据源",
   "state" : "Unlocked",
   "resourceType" : "Folder",
-  "resourceId" : "GI7PU2XP"
+  "resourceId" : "LI654T8U"
 }, {
   "moduleType" : "entity-relation",
   "moduleName" : "sqlserver",
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "NI6W4H53"
-}, {
-  "moduleType" : "entity",
-  "moduleName" : "sqlserver/0318_1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "VN5KGAJI"
-}, {
-  "moduleType" : "datasource",
-  "moduleName" : "postgres",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "FOIXP0QE"
-}, {
-  "moduleType" : "entity",
-  "moduleName" : "postgres",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "H2ODCIFG"
-}, {
-  "moduleType" : "entity-relation",
-  "moduleName" : "postgres",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "CY1GFF7D"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1_1",
-  "state" : "Unlocked",
-  "resourceType" : "Folder",
-  "resourceId" : "L8W1KC1Q"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1_1/创建实体1_1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "DW8WYS2C"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1_1/创建或更改实体1_1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "DK8CY9S8"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1_1/更改实体1_1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "UC3B1XZW"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1_1/删除实体1_1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "X49U9OV2"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1_1/查询实体1_1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "TZ1FVDJN"
-}, {
-  "moduleType" : "logic",
-  "moduleName" : "服务端逻辑/实体1_1/查询实体1详情_1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "OFTC79BN"
-}, {
-  "moduleType" : "entity",
-  "moduleName" : "postgres/0318_1",
-  "state" : "Unlocked",
-  "resourceType" : "Document",
-  "resourceId" : "F8AMETKR"
 } ]
