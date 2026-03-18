@@ -500,4 +500,2356 @@
   "resourcePaths" : [ "documents/entity-relation/ORACLE", "documents/entity-relation/ORACLE/.f.metadata.json", "documents/entity-relation/ORACLE/.f.json", "documents/ref-object/TEXY561Y.json", "documents/ref-object/TEXY561Y.metadata.json" ],
   "resourceType" : "Folder",
   "resourceId" : "TEXY561Y"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/0317_1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/0317_1.json", "documents/entity/ORACLE/0317_1.metadata.json", "documents/entity/ORACLE/0317_1.refId.json", "documents/ref-object/EZANZV17.json", "documents/ref-object/EZANZV17.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EZANZV17"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/aaa",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/aaa.json", "documents/entity/ORACLE/aaa.metadata.json", "documents/entity/ORACLE/aaa.refId.json", "documents/ref-object/NTPJJ7MO.json", "documents/ref-object/NTPJJ7MO.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "NTPJJ7MO"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/AAA",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/AAA.json", "documents/entity/ORACLE/AAA.metadata.json", "documents/entity/ORACLE/AAA.refId.json", "documents/ref-object/EDGVF0ZZ.json", "documents/ref-object/EDGVF0ZZ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EDGVF0ZZ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_EVT_LOG",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_EVT_LOG.json", "documents/entity/ORACLE/ACT_EVT_LOG.metadata.json", "documents/entity/ORACLE/ACT_EVT_LOG.refId.json", "documents/ref-object/TY73YFTN.json", "documents/ref-object/TY73YFTN.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "TY73YFTN"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_FGC_DELEGATION_CONF",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_FGC_DELEGATION_CONF.json", "documents/entity/ORACLE/ACT_FGC_DELEGATION_CONF.metadata.json", "documents/entity/ORACLE/ACT_FGC_DELEGATION_CONF.refId.json", "documents/ref-object/GKALGLNT.json", "documents/ref-object/GKALGLNT.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "GKALGLNT"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_FGC_DELEGATION_PROC_DETAIL",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_FGC_DELEGATION_PROC_DETAIL.json", "documents/entity/ORACLE/ACT_FGC_DELEGATION_PROC_DETAIL.metadata.json", "documents/entity/ORACLE/ACT_FGC_DELEGATION_PROC_DETAIL.refId.json", "documents/ref-object/PK1FNQ3M.json", "documents/ref-object/PK1FNQ3M.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "PK1FNQ3M"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_FGC_DELEGATION_TO_DETAIL",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_FGC_DELEGATION_TO_DETAIL.json", "documents/entity/ORACLE/ACT_FGC_DELEGATION_TO_DETAIL.metadata.json", "documents/entity/ORACLE/ACT_FGC_DELEGATION_TO_DETAIL.refId.json", "documents/ref-object/MIUDGSG6.json", "documents/ref-object/MIUDGSG6.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MIUDGSG6"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_FGC_HI_ADDONSIGN",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_FGC_HI_ADDONSIGN.json", "documents/entity/ORACLE/ACT_FGC_HI_ADDONSIGN.metadata.json", "documents/entity/ORACLE/ACT_FGC_HI_ADDONSIGN.refId.json", "documents/ref-object/K8PE4QF1.json", "documents/ref-object/K8PE4QF1.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "K8PE4QF1"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_GE_BYTEARRAY",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_GE_BYTEARRAY.json", "documents/entity/ORACLE/ACT_GE_BYTEARRAY.metadata.json", "documents/entity/ORACLE/ACT_GE_BYTEARRAY.refId.json", "documents/ref-object/JHLLEWM1.json", "documents/ref-object/JHLLEWM1.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "JHLLEWM1"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_GE_PROPERTY",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_GE_PROPERTY.json", "documents/entity/ORACLE/ACT_GE_PROPERTY.metadata.json", "documents/entity/ORACLE/ACT_GE_PROPERTY.refId.json", "documents/ref-object/UQUR8VP5.json", "documents/ref-object/UQUR8VP5.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "UQUR8VP5"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_HI_ACTINST",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_HI_ACTINST.json", "documents/entity/ORACLE/ACT_HI_ACTINST.metadata.json", "documents/entity/ORACLE/ACT_HI_ACTINST.refId.json", "documents/ref-object/E6UWXFGO.json", "documents/ref-object/E6UWXFGO.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "E6UWXFGO"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_HI_ATTACHMENT",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_HI_ATTACHMENT.json", "documents/entity/ORACLE/ACT_HI_ATTACHMENT.metadata.json", "documents/entity/ORACLE/ACT_HI_ATTACHMENT.refId.json", "documents/ref-object/YDEGG1XM.json", "documents/ref-object/YDEGG1XM.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "YDEGG1XM"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_HI_COMMENT",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_HI_COMMENT.json", "documents/entity/ORACLE/ACT_HI_COMMENT.metadata.json", "documents/entity/ORACLE/ACT_HI_COMMENT.refId.json", "documents/ref-object/UGK8AQ91.json", "documents/ref-object/UGK8AQ91.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "UGK8AQ91"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_HI_DETAIL",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_HI_DETAIL.json", "documents/entity/ORACLE/ACT_HI_DETAIL.metadata.json", "documents/entity/ORACLE/ACT_HI_DETAIL.refId.json", "documents/ref-object/TE3IZVX4.json", "documents/ref-object/TE3IZVX4.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "TE3IZVX4"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_HI_IDENTITYLINK",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_HI_IDENTITYLINK.json", "documents/entity/ORACLE/ACT_HI_IDENTITYLINK.metadata.json", "documents/entity/ORACLE/ACT_HI_IDENTITYLINK.refId.json", "documents/ref-object/ATIVFLPO.json", "documents/ref-object/ATIVFLPO.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "ATIVFLPO"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_HI_PROCINST",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_HI_PROCINST.json", "documents/entity/ORACLE/ACT_HI_PROCINST.metadata.json", "documents/entity/ORACLE/ACT_HI_PROCINST.refId.json", "documents/ref-object/YJS5VQ7S.json", "documents/ref-object/YJS5VQ7S.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "YJS5VQ7S"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_HI_TASKINST",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_HI_TASKINST.json", "documents/entity/ORACLE/ACT_HI_TASKINST.metadata.json", "documents/entity/ORACLE/ACT_HI_TASKINST.refId.json", "documents/ref-object/UVWOZO9E.json", "documents/ref-object/UVWOZO9E.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "UVWOZO9E"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_HI_VARINST",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_HI_VARINST.json", "documents/entity/ORACLE/ACT_HI_VARINST.metadata.json", "documents/entity/ORACLE/ACT_HI_VARINST.refId.json", "documents/ref-object/VDD8C3HH.json", "documents/ref-object/VDD8C3HH.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "VDD8C3HH"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_PROCDEF_INFO",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_PROCDEF_INFO.json", "documents/entity/ORACLE/ACT_PROCDEF_INFO.metadata.json", "documents/entity/ORACLE/ACT_PROCDEF_INFO.refId.json", "documents/ref-object/CS4464BC.json", "documents/ref-object/CS4464BC.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "CS4464BC"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RE_DEPLOYMENT",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RE_DEPLOYMENT.json", "documents/entity/ORACLE/ACT_RE_DEPLOYMENT.metadata.json", "documents/entity/ORACLE/ACT_RE_DEPLOYMENT.refId.json", "documents/ref-object/KUREAB29.json", "documents/ref-object/KUREAB29.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KUREAB29"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RE_MODEL",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RE_MODEL.json", "documents/entity/ORACLE/ACT_RE_MODEL.metadata.json", "documents/entity/ORACLE/ACT_RE_MODEL.refId.json", "documents/ref-object/N56CNQHI.json", "documents/ref-object/N56CNQHI.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "N56CNQHI"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RE_PROCDEF",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RE_PROCDEF.json", "documents/entity/ORACLE/ACT_RE_PROCDEF.metadata.json", "documents/entity/ORACLE/ACT_RE_PROCDEF.refId.json", "documents/ref-object/LEDCSH1M.json", "documents/ref-object/LEDCSH1M.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "LEDCSH1M"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RU_DEADLETTER_JOB",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RU_DEADLETTER_JOB.json", "documents/entity/ORACLE/ACT_RU_DEADLETTER_JOB.metadata.json", "documents/entity/ORACLE/ACT_RU_DEADLETTER_JOB.refId.json", "documents/ref-object/F7Y5GO44.json", "documents/ref-object/F7Y5GO44.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "F7Y5GO44"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RU_EVENT_SUBSCR",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RU_EVENT_SUBSCR.json", "documents/entity/ORACLE/ACT_RU_EVENT_SUBSCR.metadata.json", "documents/entity/ORACLE/ACT_RU_EVENT_SUBSCR.refId.json", "documents/ref-object/P4EER0AM.json", "documents/ref-object/P4EER0AM.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "P4EER0AM"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RU_EXECUTION",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RU_EXECUTION.json", "documents/entity/ORACLE/ACT_RU_EXECUTION.metadata.json", "documents/entity/ORACLE/ACT_RU_EXECUTION.refId.json", "documents/ref-object/GNMVRTOA.json", "documents/ref-object/GNMVRTOA.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "GNMVRTOA"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RU_IDENTITYLINK",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RU_IDENTITYLINK.json", "documents/entity/ORACLE/ACT_RU_IDENTITYLINK.metadata.json", "documents/entity/ORACLE/ACT_RU_IDENTITYLINK.refId.json", "documents/ref-object/HE8AYQDI.json", "documents/ref-object/HE8AYQDI.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "HE8AYQDI"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RU_INTEGRATION",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RU_INTEGRATION.json", "documents/entity/ORACLE/ACT_RU_INTEGRATION.metadata.json", "documents/entity/ORACLE/ACT_RU_INTEGRATION.refId.json", "documents/ref-object/Q6WTCY5S.json", "documents/ref-object/Q6WTCY5S.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "Q6WTCY5S"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RU_JOB",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RU_JOB.json", "documents/entity/ORACLE/ACT_RU_JOB.metadata.json", "documents/entity/ORACLE/ACT_RU_JOB.refId.json", "documents/ref-object/MYRRW40Y.json", "documents/ref-object/MYRRW40Y.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MYRRW40Y"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RU_SUSPENDED_JOB",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RU_SUSPENDED_JOB.json", "documents/entity/ORACLE/ACT_RU_SUSPENDED_JOB.metadata.json", "documents/entity/ORACLE/ACT_RU_SUSPENDED_JOB.refId.json", "documents/ref-object/A1ANMBTL.json", "documents/ref-object/A1ANMBTL.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "A1ANMBTL"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RU_TASK",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RU_TASK.json", "documents/entity/ORACLE/ACT_RU_TASK.metadata.json", "documents/entity/ORACLE/ACT_RU_TASK.refId.json", "documents/ref-object/M464QQ8S.json", "documents/ref-object/M464QQ8S.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "M464QQ8S"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RU_TIMER_JOB",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RU_TIMER_JOB.json", "documents/entity/ORACLE/ACT_RU_TIMER_JOB.metadata.json", "documents/entity/ORACLE/ACT_RU_TIMER_JOB.refId.json", "documents/ref-object/AE452DEG.json", "documents/ref-object/AE452DEG.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "AE452DEG"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ACT_RU_VARIABLE",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ACT_RU_VARIABLE.json", "documents/entity/ORACLE/ACT_RU_VARIABLE.metadata.json", "documents/entity/ORACLE/ACT_RU_VARIABLE.refId.json", "documents/ref-object/HTDVPUFH.json", "documents/ref-object/HTDVPUFH.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "HTDVPUFH"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/AlexTest1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/AlexTest1.json", "documents/entity/ORACLE/AlexTest1.metadata.json", "documents/entity/ORACLE/AlexTest1.refId.json", "documents/ref-object/NL4Q43J2.json", "documents/ref-object/NL4Q43J2.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "NL4Q43J2"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/AllTypes",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/AllTypes.json", "documents/entity/ORACLE/AllTypes.metadata.json", "documents/entity/ORACLE/AllTypes.refId.json", "documents/ref-object/WDDRCXI1.json", "documents/ref-object/WDDRCXI1.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WDDRCXI1"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/allTypes_copy1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/allTypes_copy1.json", "documents/entity/ORACLE/allTypes_copy1.metadata.json", "documents/entity/ORACLE/allTypes_copy1.refId.json", "documents/ref-object/VZIY2EHE.json", "documents/ref-object/VZIY2EHE.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "VZIY2EHE"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/arja182table1_oracle",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/arja182table1_oracle.json", "documents/entity/ORACLE/arja182table1_oracle.metadata.json", "documents/entity/ORACLE/arja182table1_oracle.refId.json", "documents/ref-object/PTG8EIG5.json", "documents/ref-object/PTG8EIG5.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "PTG8EIG5"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/arja182table2_oracle",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/arja182table2_oracle.json", "documents/entity/ORACLE/arja182table2_oracle.metadata.json", "documents/entity/ORACLE/arja182table2_oracle.refId.json", "documents/ref-object/E7FYUSNS.json", "documents/ref-object/E7FYUSNS.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "E7FYUSNS"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/background",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/background.json", "documents/entity/ORACLE/background.metadata.json", "documents/entity/ORACLE/background.refId.json", "documents/ref-object/S2N3LE6Z.json", "documents/ref-object/S2N3LE6Z.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "S2N3LE6Z"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/base64_oracle",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/base64_oracle.json", "documents/entity/ORACLE/base64_oracle.metadata.json", "documents/entity/ORACLE/base64_oracle.refId.json", "documents/ref-object/KHTR3GG8.json", "documents/ref-object/KHTR3GG8.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KHTR3GG8"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/BasicTable_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/BasicTable_o23.json", "documents/entity/ORACLE/BasicTable_o23.metadata.json", "documents/entity/ORACLE/BasicTable_o23.refId.json", "documents/ref-object/AELHEOQ8.json", "documents/ref-object/AELHEOQ8.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "AELHEOQ8"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/BasicTableForList_o23c",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/BasicTableForList_o23c.json", "documents/entity/ORACLE/BasicTableForList_o23c.metadata.json", "documents/entity/ORACLE/BasicTableForList_o23c.refId.json", "documents/ref-object/MN9FFY30.json", "documents/ref-object/MN9FFY30.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MN9FFY30"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/bbb",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/bbb.json", "documents/entity/ORACLE/bbb.metadata.json", "documents/entity/ORACLE/bbb.refId.json", "documents/ref-object/KRYF4HJR.json", "documents/ref-object/KRYF4HJR.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KRYF4HJR"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/BOOLEAN_TEST",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/BOOLEAN_TEST.json", "documents/entity/ORACLE/BOOLEAN_TEST.metadata.json", "documents/entity/ORACLE/BOOLEAN_TEST.refId.json", "documents/ref-object/PJPZ2KA4.json", "documents/ref-object/PJPZ2KA4.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "PJPZ2KA4"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/BOOLEAN_TEST2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/BOOLEAN_TEST2.json", "documents/entity/ORACLE/BOOLEAN_TEST2.metadata.json", "documents/entity/ORACLE/BOOLEAN_TEST2.refId.json", "documents/ref-object/UVQS1YV3.json", "documents/ref-object/UVQS1YV3.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "UVQS1YV3"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/BOOLEAN_TEST23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/BOOLEAN_TEST23.json", "documents/entity/ORACLE/BOOLEAN_TEST23.metadata.json", "documents/entity/ORACLE/BOOLEAN_TEST23.refId.json", "documents/ref-object/QP64AP0R.json", "documents/ref-object/QP64AP0R.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "QP64AP0R"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/BOOLEAN_TEST231",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/BOOLEAN_TEST231.json", "documents/entity/ORACLE/BOOLEAN_TEST231.metadata.json", "documents/entity/ORACLE/BOOLEAN_TEST231.refId.json", "documents/ref-object/BEFVEQY1.json", "documents/ref-object/BEFVEQY1.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "BEFVEQY1"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/BOOLEAN_TEST3",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/BOOLEAN_TEST3.json", "documents/entity/ORACLE/BOOLEAN_TEST3.metadata.json", "documents/entity/ORACLE/BOOLEAN_TEST3.refId.json", "documents/ref-object/QWIUL2OX.json", "documents/ref-object/QWIUL2OX.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "QWIUL2OX"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/BOOLEAN_TEST4",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/BOOLEAN_TEST4.json", "documents/entity/ORACLE/BOOLEAN_TEST4.metadata.json", "documents/entity/ORACLE/BOOLEAN_TEST4.refId.json", "documents/ref-object/KUTE5IXN.json", "documents/ref-object/KUTE5IXN.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KUTE5IXN"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/BOOLEAN_TEST_01",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/BOOLEAN_TEST_01.json", "documents/entity/ORACLE/BOOLEAN_TEST_01.metadata.json", "documents/entity/ORACLE/BOOLEAN_TEST_01.refId.json", "documents/ref-object/WXXDVAEA.json", "documents/ref-object/WXXDVAEA.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WXXDVAEA"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/boolean_test_debug",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/boolean_test_debug.json", "documents/entity/ORACLE/boolean_test_debug.metadata.json", "documents/entity/ORACLE/boolean_test_debug.refId.json", "documents/ref-object/LMCHKQET.json", "documents/ref-object/LMCHKQET.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "LMCHKQET"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ElMentsPermissionCheck",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ElMentsPermissionCheck.json", "documents/entity/ORACLE/ElMentsPermissionCheck.metadata.json", "documents/entity/ORACLE/ElMentsPermissionCheck.refId.json", "documents/ref-object/VHARW5LP.json", "documents/ref-object/VHARW5LP.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "VHARW5LP"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC2_USD_XA_DD3_EMMAZY1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC2_USD_XA_DD3_EMMAZY1.json", "documents/entity/ORACLE/FGC2_USD_XA_DD3_EMMAZY1.metadata.json", "documents/entity/ORACLE/FGC2_USD_XA_DD3_EMMAZY1.refId.json", "documents/ref-object/J0HXCFTI.json", "documents/ref-object/J0HXCFTI.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "J0HXCFTI"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC2_USD_XA_DD3_ERICXU1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC2_USD_XA_DD3_ERICXU1.json", "documents/entity/ORACLE/FGC2_USD_XA_DD3_ERICXU1.metadata.json", "documents/entity/ORACLE/FGC2_USD_XA_DD3_ERICXU1.refId.json", "documents/ref-object/E3L9R393.json", "documents/ref-object/E3L9R393.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "E3L9R393"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC3_US_brantytest_forguncy_",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC3_US_brantytest_forguncy_.json", "documents/entity/ORACLE/FGC3_US_brantytest_forguncy_.metadata.json", "documents/entity/ORACLE/FGC3_US_brantytest_forguncy_.refId.json", "documents/ref-object/P0UD7NOQ.json", "documents/ref-object/P0UD7NOQ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "P0UD7NOQ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC3_US_ubuntu2204",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC3_US_ubuntu2204.json", "documents/entity/ORACLE/FGC3_US_ubuntu2204.metadata.json", "documents/entity/ORACLE/FGC3_US_ubuntu2204.refId.json", "documents/ref-object/M72YLIN7.json", "documents/ref-object/M72YLIN7.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "M72YLIN7"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC3_US_WIN_DTHIQ0C941O",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC3_US_WIN_DTHIQ0C941O.json", "documents/entity/ORACLE/FGC3_US_WIN_DTHIQ0C941O.metadata.json", "documents/entity/ORACLE/FGC3_US_WIN_DTHIQ0C941O.refId.json", "documents/ref-object/RFMCGKIA.json", "documents/ref-object/RFMCGKIA.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "RFMCGKIA"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC3_USD_XA_DD3_WENDYX",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC3_USD_XA_DD3_WENDYX.json", "documents/entity/ORACLE/FGC3_USD_XA_DD3_WENDYX.metadata.json", "documents/entity/ORACLE/FGC3_USD_XA_DD3_WENDYX.refId.json", "documents/ref-object/LSCHS9KP.json", "documents/ref-object/LSCHS9KP.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "LSCHS9KP"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_SC_B5A5118044966B2E001BFC",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_SC_B5A5118044966B2E001BFC.json", "documents/entity/ORACLE/FGC_SC_B5A5118044966B2E001BFC.metadata.json", "documents/entity/ORACLE/FGC_SC_B5A5118044966B2E001BFC.refId.json", "documents/ref-object/AP3ATX4I.json", "documents/ref-object/AP3ATX4I.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "AP3ATX4I"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_UMV_SC_0B5BB16F4649EFBA8A",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_UMV_SC_0B5BB16F4649EFBA8A.json", "documents/entity/ORACLE/FGC_UMV_SC_0B5BB16F4649EFBA8A.metadata.json", "documents/entity/ORACLE/FGC_UMV_SC_0B5BB16F4649EFBA8A.refId.json", "documents/ref-object/RC5WO8B6.json", "documents/ref-object/RC5WO8B6.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "RC5WO8B6"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_UMV_SC_27378559706196B0C2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_UMV_SC_27378559706196B0C2.json", "documents/entity/ORACLE/FGC_UMV_SC_27378559706196B0C2.metadata.json", "documents/entity/ORACLE/FGC_UMV_SC_27378559706196B0C2.refId.json", "documents/ref-object/EP4IHYR6.json", "documents/ref-object/EP4IHYR6.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EP4IHYR6"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_UMV_SC_5019936904D4301E0E",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_UMV_SC_5019936904D4301E0E.json", "documents/entity/ORACLE/FGC_UMV_SC_5019936904D4301E0E.metadata.json", "documents/entity/ORACLE/FGC_UMV_SC_5019936904D4301E0E.refId.json", "documents/ref-object/GL18HJHB.json", "documents/ref-object/GL18HJHB.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "GL18HJHB"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_UMV_SC_658D18408B632A2495",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_UMV_SC_658D18408B632A2495.json", "documents/entity/ORACLE/FGC_UMV_SC_658D18408B632A2495.metadata.json", "documents/entity/ORACLE/FGC_UMV_SC_658D18408B632A2495.refId.json", "documents/ref-object/MWVJ4IKY.json", "documents/ref-object/MWVJ4IKY.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MWVJ4IKY"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_UMV_SC_B5A5118044966B2E00",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_UMV_SC_B5A5118044966B2E00.json", "documents/entity/ORACLE/FGC_UMV_SC_B5A5118044966B2E00.metadata.json", "documents/entity/ORACLE/FGC_UMV_SC_B5A5118044966B2E00.refId.json", "documents/ref-object/MTTJN7G0.json", "documents/ref-object/MTTJN7G0.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MTTJN7G0"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_UMV_SC_C70D7244A7D4C71F4A",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_UMV_SC_C70D7244A7D4C71F4A.json", "documents/entity/ORACLE/FGC_UMV_SC_C70D7244A7D4C71F4A.metadata.json", "documents/entity/ORACLE/FGC_UMV_SC_C70D7244A7D4C71F4A.refId.json", "documents/ref-object/NNDV97B2.json", "documents/ref-object/NNDV97B2.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "NNDV97B2"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_UMV_TM",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_UMV_TM.json", "documents/entity/ORACLE/FGC_UMV_TM.metadata.json", "documents/entity/ORACLE/FGC_UMV_TM.refId.json", "documents/ref-object/U906J5NW.json", "documents/ref-object/U906J5NW.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "U906J5NW"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_US_XA_DD3_FGCT3JP",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_US_XA_DD3_FGCT3JP.json", "documents/entity/ORACLE/FGC_US_XA_DD3_FGCT3JP.metadata.json", "documents/entity/ORACLE/FGC_US_XA_DD3_FGCT3JP.refId.json", "documents/ref-object/SIFY78B2.json", "documents/ref-object/SIFY78B2.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "SIFY78B2"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_US_XA_DD3_VICKYZHE",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_US_XA_DD3_VICKYZHE.json", "documents/entity/ORACLE/FGC_US_XA_DD3_VICKYZHE.metadata.json", "documents/entity/ORACLE/FGC_US_XA_DD3_VICKYZHE.refId.json", "documents/ref-object/BZTR4DZK.json", "documents/ref-object/BZTR4DZK.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "BZTR4DZK"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_USD_W_XA_DD3_VICKYZHE",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_USD_W_XA_DD3_VICKYZHE.json", "documents/entity/ORACLE/FGC_USD_W_XA_DD3_VICKYZHE.metadata.json", "documents/entity/ORACLE/FGC_USD_W_XA_DD3_VICKYZHE.refId.json", "documents/ref-object/MVIB8KIE.json", "documents/ref-object/MVIB8KIE.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MVIB8KIE"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_USD_XA_DD3_ERICXU1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_USD_XA_DD3_ERICXU1.json", "documents/entity/ORACLE/FGC_USD_XA_DD3_ERICXU1.metadata.json", "documents/entity/ORACLE/FGC_USD_XA_DD3_ERICXU1.refId.json", "documents/ref-object/SODMWLSN.json", "documents/ref-object/SODMWLSN.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "SODMWLSN"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_USD_XA_DD3_FGCT3JP",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_USD_XA_DD3_FGCT3JP.json", "documents/entity/ORACLE/FGC_USD_XA_DD3_FGCT3JP.metadata.json", "documents/entity/ORACLE/FGC_USD_XA_DD3_FGCT3JP.refId.json", "documents/ref-object/T7FB1UQA.json", "documents/ref-object/T7FB1UQA.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "T7FB1UQA"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_USD_XA_DD3_VICKYZHE",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_USD_XA_DD3_VICKYZHE.json", "documents/entity/ORACLE/FGC_USD_XA_DD3_VICKYZHE.metadata.json", "documents/entity/ORACLE/FGC_USD_XA_DD3_VICKYZHE.refId.json", "documents/ref-object/G3LO9U0H.json", "documents/ref-object/G3LO9U0H.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "G3LO9U0H"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/FGC_状态信息表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/FGC_状态信息表.json", "documents/entity/ORACLE/FGC_状态信息表.metadata.json", "documents/entity/ORACLE/FGC_状态信息表.refId.json", "documents/ref-object/YEMHVMPM.json", "documents/ref-object/YEMHVMPM.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "YEMHVMPM"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/Forguncy19508",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/Forguncy19508.json", "documents/entity/ORACLE/Forguncy19508.metadata.json", "documents/entity/ORACLE/Forguncy19508.refId.json", "documents/ref-object/SWC6W644.json", "documents/ref-object/SWC6W644.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "SWC6W644"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/Forguncy1950801",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/Forguncy1950801.json", "documents/entity/ORACLE/Forguncy1950801.metadata.json", "documents/entity/ORACLE/Forguncy1950801.refId.json", "documents/ref-object/MXYSVHGM.json", "documents/ref-object/MXYSVHGM.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MXYSVHGM"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/HILDATESTTEMP",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/HILDATESTTEMP.json", "documents/entity/ORACLE/HILDATESTTEMP.metadata.json", "documents/entity/ORACLE/HILDATESTTEMP.refId.json", "documents/ref-object/GY8XDWY1.json", "documents/ref-object/GY8XDWY1.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "GY8XDWY1"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/hildatesttemp2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/hildatesttemp2.json", "documents/entity/ORACLE/hildatesttemp2.metadata.json", "documents/entity/ORACLE/hildatesttemp2.refId.json", "documents/ref-object/U6B9T6YA.json", "documents/ref-object/U6B9T6YA.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "U6B9T6YA"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/linyunyuntest",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/linyunyuntest.json", "documents/entity/ORACLE/linyunyuntest.metadata.json", "documents/entity/ORACLE/linyunyuntest.refId.json", "documents/ref-object/VQR3OO0X.json", "documents/ref-object/VQR3OO0X.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "VQR3OO0X"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/LOG104541",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/LOG104541.json", "documents/entity/ORACLE/LOG104541.metadata.json", "documents/entity/ORACLE/LOG104541.refId.json", "documents/ref-object/TWZV6X3Y.json", "documents/ref-object/TWZV6X3Y.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "TWZV6X3Y"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/NEWTABLE",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/NEWTABLE.json", "documents/entity/ORACLE/NEWTABLE.metadata.json", "documents/entity/ORACLE/NEWTABLE.refId.json", "documents/ref-object/FHZ78WO2.json", "documents/ref-object/FHZ78WO2.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "FHZ78WO2"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/o23.json", "documents/entity/ORACLE/o23.metadata.json", "documents/entity/ORACLE/o23.refId.json", "documents/ref-object/NZP3BQPO.json", "documents/ref-object/NZP3BQPO.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "NZP3BQPO"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/O23CREATEINDB0830",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/O23CREATEINDB0830.json", "documents/entity/ORACLE/O23CREATEINDB0830.metadata.json", "documents/entity/ORACLE/O23CREATEINDB0830.refId.json", "documents/ref-object/IYY907MK.json", "documents/ref-object/IYY907MK.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "IYY907MK"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/o23jp",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/o23jp.json", "documents/entity/ORACLE/o23jp.metadata.json", "documents/entity/ORACLE/o23jp.refId.json", "documents/ref-object/EIJU8FCO.json", "documents/ref-object/EIJU8FCO.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EIJU8FCO"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/o23jp_FGC_WHT",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/o23jp_FGC_WHT.json", "documents/entity/ORACLE/o23jp_FGC_WHT.metadata.json", "documents/entity/ORACLE/o23jp_FGC_WHT.refId.json", "documents/ref-object/Y4QWSXGZ.json", "documents/ref-object/Y4QWSXGZ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "Y4QWSXGZ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/o23子表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/o23子表.json", "documents/entity/ORACLE/o23子表.metadata.json", "documents/entity/ORACLE/o23子表.refId.json", "documents/ref-object/KYUZ2V8B.json", "documents/ref-object/KYUZ2V8B.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KYUZ2V8B"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ochildtable",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ochildtable.json", "documents/entity/ORACLE/ochildtable.metadata.json", "documents/entity/ORACLE/ochildtable.refId.json", "documents/ref-object/ZZCSZ6L2.json", "documents/ref-object/ZZCSZ6L2.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "ZZCSZ6L2"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/omastertable",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/omastertable.json", "documents/entity/ORACLE/omastertable.metadata.json", "documents/entity/ORACLE/omastertable.refId.json", "documents/ref-object/CXTBF1YI.json", "documents/ref-object/CXTBF1YI.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "CXTBF1YI"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/oracle23c布尔字段",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/oracle23c布尔字段.json", "documents/entity/ORACLE/oracle23c布尔字段.metadata.json", "documents/entity/ORACLE/oracle23c布尔字段.refId.json", "documents/ref-object/X9BEUOHQ.json", "documents/ref-object/X9BEUOHQ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "X9BEUOHQ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/oracle23c布尔字段_01",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/oracle23c布尔字段_01.json", "documents/entity/ORACLE/oracle23c布尔字段_01.metadata.json", "documents/entity/ORACLE/oracle23c布尔字段_01.refId.json", "documents/ref-object/LQGJOGMH.json", "documents/ref-object/LQGJOGMH.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "LQGJOGMH"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/oracle23table",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/oracle23table.json", "documents/entity/ORACLE/oracle23table.metadata.json", "documents/entity/ORACLE/oracle23table.refId.json", "documents/ref-object/GBR71KDJ.json", "documents/ref-object/GBR71KDJ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "GBR71KDJ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/Oracle23Test",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/Oracle23Test.json", "documents/entity/ORACLE/Oracle23Test.metadata.json", "documents/entity/ORACLE/Oracle23Test.refId.json", "documents/ref-object/U7JK3QI6.json", "documents/ref-object/U7JK3QI6.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "U7JK3QI6"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/Oracle23Test_FGC_WHT",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/Oracle23Test_FGC_WHT.json", "documents/entity/ORACLE/Oracle23Test_FGC_WHT.metadata.json", "documents/entity/ORACLE/Oracle23Test_FGC_WHT.refId.json", "documents/ref-object/K9QMJLUH.json", "documents/ref-object/K9QMJLUH.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "K9QMJLUH"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/Oracle23TestNoBoolean",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/Oracle23TestNoBoolean.json", "documents/entity/ORACLE/Oracle23TestNoBoolean.metadata.json", "documents/entity/ORACLE/Oracle23TestNoBoolean.refId.json", "documents/ref-object/YAPVBNGH.json", "documents/ref-object/YAPVBNGH.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "YAPVBNGH"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ORACLE_100W",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ORACLE_100W.json", "documents/entity/ORACLE/ORACLE_100W.metadata.json", "documents/entity/ORACLE/ORACLE_100W.refId.json", "documents/ref-object/AYEMGZM1.json", "documents/ref-object/AYEMGZM1.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "AYEMGZM1"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ORACLEAUTOINCREMENTTABLE",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ORACLEAUTOINCREMENTTABLE.json", "documents/entity/ORACLE/ORACLEAUTOINCREMENTTABLE.metadata.json", "documents/entity/ORACLE/ORACLEAUTOINCREMENTTABLE.refId.json", "documents/ref-object/CL7TMN55.json", "documents/ref-object/CL7TMN55.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "CL7TMN55"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/OracleList数据类型测试",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/OracleList数据类型测试.json", "documents/entity/ORACLE/OracleList数据类型测试.metadata.json", "documents/entity/ORACLE/OracleList数据类型测试.refId.json", "documents/ref-object/WTDGP53B.json", "documents/ref-object/WTDGP53B.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WTDGP53B"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/OracleTable_nginx",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/OracleTable_nginx.json", "documents/entity/ORACLE/OracleTable_nginx.metadata.json", "documents/entity/ORACLE/OracleTable_nginx.refId.json", "documents/ref-object/UO9XK5VU.json", "documents/ref-object/UO9XK5VU.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "UO9XK5VU"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/Oracle图片类型",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/Oracle图片类型.json", "documents/entity/ORACLE/Oracle图片类型.metadata.json", "documents/entity/ORACLE/Oracle图片类型.refId.json", "documents/ref-object/E0HH8BB9.json", "documents/ref-object/E0HH8BB9.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "E0HH8BB9"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/oracle布尔自增字段测试",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/oracle布尔自增字段测试.json", "documents/entity/ORACLE/oracle布尔自增字段测试.metadata.json", "documents/entity/ORACLE/oracle布尔自增字段测试.refId.json", "documents/ref-object/Q8GIYHJL.json", "documents/ref-object/Q8GIYHJL.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "Q8GIYHJL"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/oracle测试数据表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/oracle测试数据表.json", "documents/entity/ORACLE/oracle测试数据表.metadata.json", "documents/entity/ORACLE/oracle测试数据表.refId.json", "documents/ref-object/ERK286FS.json", "documents/ref-object/ERK286FS.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "ERK286FS"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/phoenix_test1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/phoenix_test1.json", "documents/entity/ORACLE/phoenix_test1.metadata.json", "documents/entity/ORACLE/phoenix_test1.refId.json", "documents/ref-object/NIG8TNC6.json", "documents/ref-object/NIG8TNC6.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "NIG8TNC6"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/phoenix_test12",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/phoenix_test12.json", "documents/entity/ORACLE/phoenix_test12.metadata.json", "documents/entity/ORACLE/phoenix_test12.refId.json", "documents/ref-object/DLV1GWL4.json", "documents/ref-object/DLV1GWL4.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "DLV1GWL4"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/phoenixtest",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/phoenixtest.json", "documents/entity/ORACLE/phoenixtest.metadata.json", "documents/entity/ORACLE/phoenixtest.refId.json", "documents/ref-object/UQLVX7SB.json", "documents/ref-object/UQLVX7SB.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "UQLVX7SB"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/PublishTable",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/PublishTable.json", "documents/entity/ORACLE/PublishTable.metadata.json", "documents/entity/ORACLE/PublishTable.refId.json", "documents/ref-object/Z95HVQQ5.json", "documents/ref-object/Z95HVQQ5.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "Z95HVQQ5"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/PublishTable_FGC_WHT",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/PublishTable_FGC_WHT.json", "documents/entity/ORACLE/PublishTable_FGC_WHT.metadata.json", "documents/entity/ORACLE/PublishTable_FGC_WHT.refId.json", "documents/ref-object/MDUWLCS6.json", "documents/ref-object/MDUWLCS6.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MDUWLCS6"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/table_sql",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/table_sql.json", "documents/entity/ORACLE/table_sql.metadata.json", "documents/entity/ORACLE/table_sql.refId.json", "documents/ref-object/V50V6K25.json", "documents/ref-object/V50V6K25.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "V50V6K25"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/Temp20250922",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/Temp20250922.json", "documents/entity/ORACLE/Temp20250922.metadata.json", "documents/entity/ORACLE/Temp20250922.refId.json", "documents/ref-object/E984VGGL.json", "documents/ref-object/E984VGGL.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "E984VGGL"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/TEST0511",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/TEST0511.json", "documents/entity/ORACLE/TEST0511.metadata.json", "documents/entity/ORACLE/TEST0511.refId.json", "documents/ref-object/EU2R59QM.json", "documents/ref-object/EU2R59QM.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EU2R59QM"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/TEST0511_1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/TEST0511_1.json", "documents/entity/ORACLE/TEST0511_1.metadata.json", "documents/entity/ORACLE/TEST0511_1.refId.json", "documents/ref-object/Y52V8GTP.json", "documents/ref-object/Y52V8GTP.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "Y52V8GTP"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/TEST0511_2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/TEST0511_2.json", "documents/entity/ORACLE/TEST0511_2.metadata.json", "documents/entity/ORACLE/TEST0511_2.refId.json", "documents/ref-object/HN027QGX.json", "documents/ref-object/HN027QGX.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "HN027QGX"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/TEST0511_3",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/TEST0511_3.json", "documents/entity/ORACLE/TEST0511_3.metadata.json", "documents/entity/ORACLE/TEST0511_3.refId.json", "documents/ref-object/T28Q62NB.json", "documents/ref-object/T28Q62NB.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "T28Q62NB"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/test0515",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/test0515.json", "documents/entity/ORACLE/test0515.metadata.json", "documents/entity/ORACLE/test0515.refId.json", "documents/ref-object/EK56QPZO.json", "documents/ref-object/EK56QPZO.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EK56QPZO"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/TEST0522_1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/TEST0522_1.json", "documents/entity/ORACLE/TEST0522_1.metadata.json", "documents/entity/ORACLE/TEST0522_1.refId.json", "documents/ref-object/A5TZJEVG.json", "documents/ref-object/A5TZJEVG.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "A5TZJEVG"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/testbool23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/testbool23.json", "documents/entity/ORACLE/testbool23.metadata.json", "documents/entity/ORACLE/testbool23.refId.json", "documents/ref-object/GA1G24MS.json", "documents/ref-object/GA1G24MS.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "GA1G24MS"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/testBooleanList",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/testBooleanList.json", "documents/entity/ORACLE/testBooleanList.metadata.json", "documents/entity/ORACLE/testBooleanList.refId.json", "documents/ref-object/P9449BAK.json", "documents/ref-object/P9449BAK.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "P9449BAK"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/TestNewWorkflow",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/TestNewWorkflow.json", "documents/entity/ORACLE/TestNewWorkflow.metadata.json", "documents/entity/ORACLE/TestNewWorkflow.refId.json", "documents/ref-object/D9ABMJCW.json", "documents/ref-object/D9ABMJCW.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "D9ABMJCW"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/TestNewWorkflow_FGC_WHT",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/TestNewWorkflow_FGC_WHT.json", "documents/entity/ORACLE/TestNewWorkflow_FGC_WHT.metadata.json", "documents/entity/ORACLE/TestNewWorkflow_FGC_WHT.refId.json", "documents/ref-object/JRGMUYOM.json", "documents/ref-object/JRGMUYOM.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "JRGMUYOM"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/testrowveoracle",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/testrowveoracle.json", "documents/entity/ORACLE/testrowveoracle.metadata.json", "documents/entity/ORACLE/testrowveoracle.refId.json", "documents/ref-object/X3PGA4NS.json", "documents/ref-object/X3PGA4NS.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "X3PGA4NS"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/TestTable20240102",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/TestTable20240102.json", "documents/entity/ORACLE/TestTable20240102.metadata.json", "documents/entity/ORACLE/TestTable20240102.refId.json", "documents/ref-object/Y4OLYRE1.json", "documents/ref-object/Y4OLYRE1.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "Y4OLYRE1"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/TestTable202401021",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/TestTable202401021.json", "documents/entity/ORACLE/TestTable202401021.metadata.json", "documents/entity/ORACLE/TestTable202401021.refId.json", "documents/ref-object/WF4QKUKG.json", "documents/ref-object/WF4QKUKG.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WF4QKUKG"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/zoey_data_table",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/zoey_data_table.json", "documents/entity/ORACLE/zoey_data_table.metadata.json", "documents/entity/ORACLE/zoey_data_table.refId.json", "documents/ref-object/P7Y1U8EH.json", "documents/ref-object/P7Y1U8EH.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "P7Y1U8EH"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/aaaa",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/aaaa.json", "documents/entity/ORACLE/aaaa.metadata.json", "documents/entity/ORACLE/aaaa.refId.json", "documents/ref-object/H8L1WI2Q.json", "documents/ref-object/H8L1WI2Q.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "H8L1WI2Q"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/bbbb",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/bbbb.json", "documents/entity/ORACLE/bbbb.metadata.json", "documents/entity/ORACLE/bbbb.refId.json", "documents/ref-object/H7W911IH.json", "documents/ref-object/H7W911IH.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "H7W911IH"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/cccc",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/cccc.json", "documents/entity/ORACLE/cccc.metadata.json", "documents/entity/ORACLE/cccc.refId.json", "documents/ref-object/LF7F3S7B.json", "documents/ref-object/LF7F3S7B.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "LF7F3S7B"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/dddd",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/dddd.json", "documents/entity/ORACLE/dddd.metadata.json", "documents/entity/ORACLE/dddd.refId.json", "documents/ref-object/KC26UVO7.json", "documents/ref-object/KC26UVO7.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KC26UVO7"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/eeee",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/eeee.json", "documents/entity/ORACLE/eeee.metadata.json", "documents/entity/ORACLE/eeee.refId.json", "documents/ref-object/RTGMCCO9.json", "documents/ref-object/RTGMCCO9.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "RTGMCCO9"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/fff",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/fff.json", "documents/entity/ORACLE/fff.metadata.json", "documents/entity/ORACLE/fff.refId.json", "documents/ref-object/NHYBKB77.json", "documents/ref-object/NHYBKB77.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "NHYBKB77"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/ggg",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/ggg.json", "documents/entity/ORACLE/ggg.metadata.json", "documents/entity/ORACLE/ggg.refId.json", "documents/ref-object/WB0IF144.json", "documents/ref-object/WB0IF144.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WB0IF144"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/hhhh",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/hhhh.json", "documents/entity/ORACLE/hhhh.metadata.json", "documents/entity/ORACLE/hhhh.refId.json", "documents/ref-object/WI2RQ4FB.json", "documents/ref-object/WI2RQ4FB.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WI2RQ4FB"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/不同类型的数据表rename",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/不同类型的数据表rename.json", "documents/entity/ORACLE/不同类型的数据表rename.metadata.json", "documents/entity/ORACLE/不同类型的数据表rename.refId.json", "documents/ref-object/J9I63SNK.json", "documents/ref-object/J9I63SNK.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "J9I63SNK"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/业务表关联工作流同oracle不同库",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/业务表关联工作流同oracle不同库.json", "documents/entity/ORACLE/业务表关联工作流同oracle不同库.metadata.json", "documents/entity/ORACLE/业务表关联工作流同oracle不同库.refId.json", "documents/ref-object/EAD89CTQ.json", "documents/ref-object/EAD89CTQ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EAD89CTQ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/企业信息表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/企业信息表.json", "documents/entity/ORACLE/企业信息表.metadata.json", "documents/entity/ORACLE/企业信息表.refId.json", "documents/ref-object/WNFT8XRK.json", "documents/ref-object/WNFT8XRK.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WNFT8XRK"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/包含bool值得数据表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/包含bool值得数据表.json", "documents/entity/ORACLE/包含bool值得数据表.metadata.json", "documents/entity/ORACLE/包含bool值得数据表.refId.json", "documents/ref-object/FPX4GZX5.json", "documents/ref-object/FPX4GZX5.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "FPX4GZX5"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/单位表_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/单位表_o23.json", "documents/entity/ORACLE/单位表_o23.metadata.json", "documents/entity/ORACLE/单位表_o23.refId.json", "documents/ref-object/EVI72WGW.json", "documents/ref-object/EVI72WGW.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EVI72WGW"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/受注明細",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/受注明細.json", "documents/entity/ORACLE/受注明細.metadata.json", "documents/entity/ORACLE/受注明細.refId.json", "documents/ref-object/W05WZOTA.json", "documents/ref-object/W05WZOTA.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "W05WZOTA"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/员工信息表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/员工信息表.json", "documents/entity/ORACLE/员工信息表.metadata.json", "documents/entity/ORACLE/员工信息表.refId.json", "documents/ref-object/NQ495MIU.json", "documents/ref-object/NQ495MIU.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "NQ495MIU"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/员工信息表_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/员工信息表_o23.json", "documents/entity/ORACLE/员工信息表_o23.metadata.json", "documents/entity/ORACLE/员工信息表_o23.refId.json", "documents/ref-object/E7ZPWB0Y.json", "documents/ref-object/E7ZPWB0Y.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "E7ZPWB0Y"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/员工表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/员工表.json", "documents/entity/ORACLE/员工表.metadata.json", "documents/entity/ORACLE/员工表.refId.json", "documents/ref-object/O19CMZQN.json", "documents/ref-object/O19CMZQN.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "O19CMZQN"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/学校信息_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/学校信息_o23.json", "documents/entity/ORACLE/学校信息_o23.metadata.json", "documents/entity/ORACLE/学校信息_o23.refId.json", "documents/ref-object/UJ9VMWZW.json", "documents/ref-object/UJ9VMWZW.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "UJ9VMWZW"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/实体1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/实体1.json", "documents/entity/ORACLE/实体1.metadata.json", "documents/entity/ORACLE/实体1.refId.json", "documents/ref-object/SHI7HEGN.json", "documents/ref-object/SHI7HEGN.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "SHI7HEGN"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/实体2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/实体2.json", "documents/entity/ORACLE/实体2.metadata.json", "documents/entity/ORACLE/实体2.refId.json", "documents/ref-object/ZTJ4RU68.json", "documents/ref-object/ZTJ4RU68.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "ZTJ4RU68"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/将数据表转换为oracle",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/将数据表转换为oracle.json", "documents/entity/ORACLE/将数据表转换为oracle.metadata.json", "documents/entity/ORACLE/将数据表转换为oracle.refId.json", "documents/ref-object/C5FGLTG0.json", "documents/ref-object/C5FGLTG0.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "C5FGLTG0"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/布尔字段测试",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/布尔字段测试.json", "documents/entity/ORACLE/布尔字段测试.metadata.json", "documents/entity/ORACLE/布尔字段测试.refId.json", "documents/ref-object/KM85L31P.json", "documents/ref-object/KM85L31P.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KM85L31P"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/布尔类型和自增",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/布尔类型和自增.json", "documents/entity/ORACLE/布尔类型和自增.metadata.json", "documents/entity/ORACLE/布尔类型和自增.refId.json", "documents/ref-object/OSIU91KN.json", "documents/ref-object/OSIU91KN.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "OSIU91KN"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/布尔类型和自增3",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/布尔类型和自增3.json", "documents/entity/ORACLE/布尔类型和自增3.metadata.json", "documents/entity/ORACLE/布尔类型和自增3.refId.json", "documents/ref-object/GVL5FNTG.json", "documents/ref-object/GVL5FNTG.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "GVL5FNTG"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/招聘类型_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/招聘类型_o23.json", "documents/entity/ORACLE/招聘类型_o23.metadata.json", "documents/entity/ORACLE/招聘类型_o23.refId.json", "documents/ref-object/MT09BP6X.json", "documents/ref-object/MT09BP6X.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MT09BP6X"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表083023",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表083023.json", "documents/entity/ORACLE/数据表083023.metadata.json", "documents/entity/ORACLE/数据表083023.refId.json", "documents/ref-object/XPH21C02.json", "documents/ref-object/XPH21C02.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "XPH21C02"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表1.json", "documents/entity/ORACLE/数据表1.metadata.json", "documents/entity/ORACLE/数据表1.refId.json", "documents/ref-object/WRLE2R06.json", "documents/ref-object/WRLE2R06.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WRLE2R06"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表10",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表10.json", "documents/entity/ORACLE/数据表10.metadata.json", "documents/entity/ORACLE/数据表10.refId.json", "documents/ref-object/X0DH7GIV.json", "documents/ref-object/X0DH7GIV.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "X0DH7GIV"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表11",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表11.json", "documents/entity/ORACLE/数据表11.metadata.json", "documents/entity/ORACLE/数据表11.refId.json", "documents/ref-object/FD6J95ZS.json", "documents/ref-object/FD6J95ZS.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "FD6J95ZS"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表12",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表12.json", "documents/entity/ORACLE/数据表12.metadata.json", "documents/entity/ORACLE/数据表12.refId.json", "documents/ref-object/VEAI7W30.json", "documents/ref-object/VEAI7W30.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "VEAI7W30"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表13",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表13.json", "documents/entity/ORACLE/数据表13.metadata.json", "documents/entity/ORACLE/数据表13.refId.json", "documents/ref-object/QZ0G24GW.json", "documents/ref-object/QZ0G24GW.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "QZ0G24GW"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表13_FGC_WHT",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表13_FGC_WHT.json", "documents/entity/ORACLE/数据表13_FGC_WHT.metadata.json", "documents/entity/ORACLE/数据表13_FGC_WHT.refId.json", "documents/ref-object/K5571HY2.json", "documents/ref-object/K5571HY2.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "K5571HY2"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表14",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表14.json", "documents/entity/ORACLE/数据表14.metadata.json", "documents/entity/ORACLE/数据表14.refId.json", "documents/ref-object/FTFH1BPY.json", "documents/ref-object/FTFH1BPY.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "FTFH1BPY"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表15",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表15.json", "documents/entity/ORACLE/数据表15.metadata.json", "documents/entity/ORACLE/数据表15.refId.json", "documents/ref-object/DMBISXEW.json", "documents/ref-object/DMBISXEW.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "DMBISXEW"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表2.json", "documents/entity/ORACLE/数据表2.metadata.json", "documents/entity/ORACLE/数据表2.refId.json", "documents/ref-object/TIW6YEG5.json", "documents/ref-object/TIW6YEG5.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "TIW6YEG5"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表3",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表3.json", "documents/entity/ORACLE/数据表3.metadata.json", "documents/entity/ORACLE/数据表3.refId.json", "documents/ref-object/OQR99FBS.json", "documents/ref-object/OQR99FBS.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "OQR99FBS"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表4",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表4.json", "documents/entity/ORACLE/数据表4.metadata.json", "documents/entity/ORACLE/数据表4.refId.json", "documents/ref-object/B0KZ8ZH0.json", "documents/ref-object/B0KZ8ZH0.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "B0KZ8ZH0"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表5",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表5.json", "documents/entity/ORACLE/数据表5.metadata.json", "documents/entity/ORACLE/数据表5.refId.json", "documents/ref-object/QMNS3G7N.json", "documents/ref-object/QMNS3G7N.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "QMNS3G7N"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表6",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4540751Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表6.json", "documents/entity/ORACLE/数据表6.metadata.json", "documents/entity/ORACLE/数据表6.refId.json", "documents/ref-object/W1CF7QMK.json", "documents/ref-object/W1CF7QMK.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "W1CF7QMK"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表7",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表7.json", "documents/entity/ORACLE/数据表7.metadata.json", "documents/entity/ORACLE/数据表7.refId.json", "documents/ref-object/VCS1WTKJ.json", "documents/ref-object/VCS1WTKJ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "VCS1WTKJ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表8",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表8.json", "documents/entity/ORACLE/数据表8.metadata.json", "documents/entity/ORACLE/数据表8.refId.json", "documents/ref-object/M79ZVARV.json", "documents/ref-object/M79ZVARV.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "M79ZVARV"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/数据表9",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/数据表9.json", "documents/entity/ORACLE/数据表9.metadata.json", "documents/entity/ORACLE/数据表9.refId.json", "documents/ref-object/PLGH9FC0.json", "documents/ref-object/PLGH9FC0.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "PLGH9FC0"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/文本做主键",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/文本做主键.json", "documents/entity/ORACLE/文本做主键.metadata.json", "documents/entity/ORACLE/文本做主键.refId.json", "documents/ref-object/MG1X6A8W.json", "documents/ref-object/MG1X6A8W.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MG1X6A8W"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/无主键",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/无主键.json", "documents/entity/ORACLE/无主键.metadata.json", "documents/entity/ORACLE/无主键.refId.json", "documents/ref-object/TZT66KVL.json", "documents/ref-object/TZT66KVL.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "TZT66KVL"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/汽车企业信息",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/汽车企业信息.json", "documents/entity/ORACLE/汽车企业信息.metadata.json", "documents/entity/ORACLE/汽车企业信息.refId.json", "documents/ref-object/RQN5JMN3.json", "documents/ref-object/RQN5JMN3.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "RQN5JMN3"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/汽车销售信息",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/汽车销售信息.json", "documents/entity/ORACLE/汽车销售信息.metadata.json", "documents/entity/ORACLE/汽车销售信息.refId.json", "documents/ref-object/KQC72BGZ.json", "documents/ref-object/KQC72BGZ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KQC72BGZ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/测试关联数据表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/测试关联数据表.json", "documents/entity/ORACLE/测试关联数据表.metadata.json", "documents/entity/ORACLE/测试关联数据表.refId.json", "documents/ref-object/W1WJ3XLU.json", "documents/ref-object/W1WJ3XLU.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "W1WJ3XLU"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/测试内建字段_o23c",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/测试内建字段_o23c.json", "documents/entity/ORACLE/测试内建字段_o23c.metadata.json", "documents/entity/ORACLE/测试内建字段_o23c.refId.json", "documents/ref-object/YCHHYFX2.json", "documents/ref-object/YCHHYFX2.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "YCHHYFX2"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/测试字段属性sqlserver",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/测试字段属性sqlserver.json", "documents/entity/ORACLE/测试字段属性sqlserver.metadata.json", "documents/entity/ORACLE/测试字段属性sqlserver.refId.json", "documents/ref-object/CLMBWUK9.json", "documents/ref-object/CLMBWUK9.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "CLMBWUK9"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/测试字段属性sqlserver_case2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/测试字段属性sqlserver_case2.json", "documents/entity/ORACLE/测试字段属性sqlserver_case2.metadata.json", "documents/entity/ORACLE/测试字段属性sqlserver_case2.refId.json", "documents/ref-object/IXGTAGTQ.json", "documents/ref-object/IXGTAGTQ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "IXGTAGTQ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/测试字段属性sqlserver_case3",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/测试字段属性sqlserver_case3.json", "documents/entity/ORACLE/测试字段属性sqlserver_case3.metadata.json", "documents/entity/ORACLE/测试字段属性sqlserver_case3.refId.json", "documents/ref-object/GE0JCF5S.json", "documents/ref-object/GE0JCF5S.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "GE0JCF5S"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/测试字段属性sqlserver_case4",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/测试字段属性sqlserver_case4.json", "documents/entity/ORACLE/测试字段属性sqlserver_case4.metadata.json", "documents/entity/ORACLE/测试字段属性sqlserver_case4.refId.json", "documents/ref-object/WJD1WIRN.json", "documents/ref-object/WJD1WIRN.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WJD1WIRN"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/测试字段属性sqlserver_case5",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/测试字段属性sqlserver_case5.json", "documents/entity/ORACLE/测试字段属性sqlserver_case5.metadata.json", "documents/entity/ORACLE/测试字段属性sqlserver_case5.refId.json", "documents/ref-object/XKMCZGIO.json", "documents/ref-object/XKMCZGIO.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "XKMCZGIO"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/测试布尔",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/测试布尔.json", "documents/entity/ORACLE/测试布尔.metadata.json", "documents/entity/ORACLE/测试布尔.refId.json", "documents/ref-object/YEZR8VCF.json", "documents/ref-object/YEZR8VCF.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "YEZR8VCF"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/测试流程权限",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/测试流程权限.json", "documents/entity/ORACLE/测试流程权限.metadata.json", "documents/entity/ORACLE/测试流程权限.refId.json", "documents/ref-object/AWKPBUWD.json", "documents/ref-object/AWKPBUWD.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "AWKPBUWD"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/物品类目_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/物品类目_o23.json", "documents/entity/ORACLE/物品类目_o23.metadata.json", "documents/entity/ORACLE/物品类目_o23.refId.json", "documents/ref-object/A2OYNJHV.json", "documents/ref-object/A2OYNJHV.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "A2OYNJHV"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/物品表_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/物品表_o23.json", "documents/entity/ORACLE/物品表_o23.metadata.json", "documents/entity/ORACLE/物品表_o23.refId.json", "documents/ref-object/FS39QF3B.json", "documents/ref-object/FS39QF3B.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "FS39QF3B"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/示例员工表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/示例员工表.json", "documents/entity/ORACLE/示例员工表.metadata.json", "documents/entity/ORACLE/示例员工表.refId.json", "documents/ref-object/C23009I8.json", "documents/ref-object/C23009I8.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "C23009I8"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/示例员工表1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/示例员工表1.json", "documents/entity/ORACLE/示例员工表1.metadata.json", "documents/entity/ORACLE/示例员工表1.refId.json", "documents/ref-object/T4Y9UM5T.json", "documents/ref-object/T4Y9UM5T.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "T4Y9UM5T"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/示例员工表1_子表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/示例员工表1_子表.json", "documents/entity/ORACLE/示例员工表1_子表.metadata.json", "documents/entity/ORACLE/示例员工表1_子表.refId.json", "documents/ref-object/CRRRJ7TY.json", "documents/ref-object/CRRRJ7TY.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "CRRRJ7TY"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/自增和布尔",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/自增和布尔.json", "documents/entity/ORACLE/自增和布尔.metadata.json", "documents/entity/ORACLE/自增和布尔.refId.json", "documents/ref-object/WD0Y4RUU.json", "documents/ref-object/WD0Y4RUU.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WD0Y4RUU"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/自增和布尔1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/自增和布尔1.json", "documents/entity/ORACLE/自增和布尔1.metadata.json", "documents/entity/ORACLE/自增和布尔1.refId.json", "documents/ref-object/O4MI6Z30.json", "documents/ref-object/O4MI6Z30.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "O4MI6Z30"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/自增和布尔2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/自增和布尔2.json", "documents/entity/ORACLE/自增和布尔2.metadata.json", "documents/entity/ORACLE/自增和布尔2.refId.json", "documents/ref-object/W9QPMZLR.json", "documents/ref-object/W9QPMZLR.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "W9QPMZLR"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/自增和布尔3",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/自增和布尔3.json", "documents/entity/ORACLE/自增和布尔3.metadata.json", "documents/entity/ORACLE/自增和布尔3.refId.json", "documents/ref-object/EYDY2QUD.json", "documents/ref-object/EYDY2QUD.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EYDY2QUD"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/表1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/表1.json", "documents/entity/ORACLE/表1.metadata.json", "documents/entity/ORACLE/表1.refId.json", "documents/ref-object/WGSKO253.json", "documents/ref-object/WGSKO253.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WGSKO253"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/表6",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/表6.json", "documents/entity/ORACLE/表6.metadata.json", "documents/entity/ORACLE/表6.refId.json", "documents/ref-object/BPJN31OE.json", "documents/ref-object/BPJN31OE.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "BPJN31OE"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/设计器新建",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/设计器新建.json", "documents/entity/ORACLE/设计器新建.metadata.json", "documents/entity/ORACLE/设计器新建.refId.json", "documents/ref-object/KVX86SNH.json", "documents/ref-object/KVX86SNH.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KVX86SNH"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/请假信息",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/请假信息.json", "documents/entity/ORACLE/请假信息.metadata.json", "documents/entity/ORACLE/请假信息.refId.json", "documents/ref-object/H3YHD20K.json", "documents/ref-object/H3YHD20K.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "H3YHD20K"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/请假数据表测试",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/请假数据表测试.json", "documents/entity/ORACLE/请假数据表测试.metadata.json", "documents/entity/ORACLE/请假数据表测试.refId.json", "documents/ref-object/PUGZUHJU.json", "documents/ref-object/PUGZUHJU.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "PUGZUHJU"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/请假测试信息表",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/请假测试信息表.json", "documents/entity/ORACLE/请假测试信息表.metadata.json", "documents/entity/ORACLE/请假测试信息表.refId.json", "documents/ref-object/XKWUWLT6.json", "documents/ref-object/XKWUWLT6.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "XKWUWLT6"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/转外联",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/转外联.json", "documents/entity/ORACLE/转外联.metadata.json", "documents/entity/ORACLE/转外联.refId.json", "documents/ref-object/Z4UBYBGR.json", "documents/ref-object/Z4UBYBGR.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "Z4UBYBGR"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/部门信息_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/部门信息_o23.json", "documents/entity/ORACLE/部门信息_o23.metadata.json", "documents/entity/ORACLE/部门信息_o23.refId.json", "documents/ref-object/OB9D69FR.json", "documents/ref-object/OB9D69FR.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "OB9D69FR"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/部门表01",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/部门表01.json", "documents/entity/ORACLE/部门表01.metadata.json", "documents/entity/ORACLE/部门表01.refId.json", "documents/ref-object/ACDEPBBP.json", "documents/ref-object/ACDEPBBP.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "ACDEPBBP"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/采购订单表_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/采购订单表_o23.json", "documents/entity/ORACLE/采购订单表_o23.metadata.json", "documents/entity/ORACLE/采购订单表_o23.refId.json", "documents/ref-object/WCYW4PXQ.json", "documents/ref-object/WCYW4PXQ.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WCYW4PXQ"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/采购订单详情表_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/采购订单详情表_o23.json", "documents/entity/ORACLE/采购订单详情表_o23.metadata.json", "documents/entity/ORACLE/采购订单详情表_o23.refId.json", "documents/ref-object/KDPMY9I9.json", "documents/ref-object/KDPMY9I9.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KDPMY9I9"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "ORACLE/销售信息_o23",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:27:16.4556014Z",
+  "resourcePaths" : [ "documents/entity/ORACLE/销售信息_o23.json", "documents/entity/ORACLE/销售信息_o23.metadata.json", "documents/entity/ORACLE/销售信息_o23.refId.json", "documents/ref-object/OU25XLZK.json", "documents/ref-object/OU25XLZK.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "OU25XLZK"
 } ]
