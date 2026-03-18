@@ -55,7 +55,8 @@
     "isBuiltIn" : false,
     "isUnique" : false,
     "isAutoIncrement" : false,
-    "columnKind" : "physical"
+    "columnKind" : "physical",
+    "defaultValue" : 1
   }, {
     "type" : "entityColumnModel",
     "id" : "ARY5VBPQ",
