@@ -7262,4 +7262,16 @@
   "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑4.json", "documents/logic/服务端逻辑/逻辑4.metadata.json", "documents/logic/服务端逻辑/逻辑4.refId.json", "documents/ref-object/WWEUMGMD.json", "documents/ref-object/WWEUMGMD.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "WWEUMGMD"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/逻辑5",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T06:03:35.1740568Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑5.json", "documents/logic/服务端逻辑/逻辑5.metadata.json", "documents/logic/服务端逻辑/逻辑5.refId.json", "documents/ref-object/W0RO22Z3.json", "documents/ref-object/W0RO22Z3.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "W0RO22Z3"
 } ]
