@@ -7220,4 +7220,16 @@
   "resourcePaths" : [ "documents/logic/服务端逻辑/0318_1_2/查询0318_1详情_2.json", "documents/logic/服务端逻辑/0318_1_2/查询0318_1详情_2.metadata.json", "documents/logic/服务端逻辑/0318_1_2/查询0318_1详情_2.refId.json", "documents/ref-object/GWH4O37R.json", "documents/ref-object/GWH4O37R.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "GWH4O37R"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/逻辑2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T05:38:10.2672539Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑2.json", "documents/logic/服务端逻辑/逻辑2.metadata.json", "documents/logic/服务端逻辑/逻辑2.refId.json", "documents/ref-object/NQ73Z5G2.json", "documents/ref-object/NQ73Z5G2.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "NQ73Z5G2"
 } ]
