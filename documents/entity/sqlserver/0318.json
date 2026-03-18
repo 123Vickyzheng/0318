@@ -1,10 +1,9 @@
 {
-  "type" : "entityModel",
   "id" : "GXSCVNBC",
-  "name" : "0318",
-  "tableName" : "0318",
-  "schema" : "dbo",
   "dataSourceId" : "RYAWT42W",
+  "schema" : "dbo",
+  "tableName" : "0318",
+  "name" : "0318",
   "columns" : [ {
     "type" : "entityColumnModel",
     "id" : "AKNNGGDS",
@@ -66,7 +65,7 @@
       "typeId" : "Boolean"
     },
     "dbType" : "BIT",
-    "jdbcType" : 16,
+    "jdbcType" : -7,
     "width" : 100,
     "isRequired" : false,
     "isPrimaryKey" : false,
@@ -74,7 +73,10 @@
     "isUnique" : false,
     "isAutoIncrement" : false,
     "columnKind" : "physical",
-    "defaultValue" : true
+    "defaultValue" : "((1))",
+    "precision" : 1,
+    "scale" : 0,
+    "columnLength" : 1
   }, {
     "type" : "entityColumnModel",
     "id" : "AJ321UBU",
@@ -212,6 +214,9 @@
     "isUnique" : false,
     "columnKind" : "physical"
   } ],
+  "type" : "entityModel",
+  "columnExtensionLoaded" : true,
+  "originalPath" : "/sqlserver/0318",
   "indexes" : [ {
     "indexName" : "PK__0318__3213E83F2D2DA491",
     "isUnique" : true,
@@ -222,6 +227,5 @@
       "columnId" : "AKNNGGDS",
       "order" : "ASC"
     } ]
-  } ],
-  "columnExtensionLoaded" : true
+  } ]
 }
