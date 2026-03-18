@@ -377,13 +377,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres/0318_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T04:09:52.0393949Z",
-  "resourcePaths" : [ "documents/entity/postgres/0318_1.json", "documents/entity/postgres/0318_1.metadata.json", "documents/entity/postgres/0318_1.refId.json", "documents/ref-object/F8AMETKR.json", "documents/ref-object/F8AMETKR.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "F8AMETKR"
 } ]
