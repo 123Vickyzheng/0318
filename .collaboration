@@ -2852,4 +2852,40 @@
   "resourcePaths" : [ "documents/entity/ORACLE/销售信息_o23.json", "documents/entity/ORACLE/销售信息_o23.metadata.json", "documents/entity/ORACLE/销售信息_o23.refId.json", "documents/ref-object/OU25XLZK.json", "documents/ref-object/OU25XLZK.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "OU25XLZK"
+}, {
+  "moduleType" : "datasource",
+  "moduleName" : "mysql84",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:29:02.1443461Z",
+  "resourcePaths" : [ "documents/datasource/mysql84.json", "documents/datasource/mysql84.metadata.json", "documents/datasource/mysql84.refId.json", "documents/ref-object/A4Q3O1AN.json", "documents/ref-object/A4Q3O1AN.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "A4Q3O1AN"
+}, {
+  "moduleType" : "entity",
+  "moduleName" : "mysql84",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:29:02.1443461Z",
+  "resourcePaths" : [ "documents/entity/mysql84", "documents/entity/mysql84/.f.metadata.json", "documents/entity/mysql84/.f.json", "documents/ref-object/H9SJPT1U.json", "documents/ref-object/H9SJPT1U.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "H9SJPT1U"
+}, {
+  "moduleType" : "entity-relation",
+  "moduleName" : "mysql84",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T04:29:02.1443461Z",
+  "resourcePaths" : [ "documents/entity-relation/mysql84", "documents/entity-relation/mysql84/.f.metadata.json", "documents/entity-relation/mysql84/.f.json", "documents/ref-object/IG0XBE0G.json", "documents/ref-object/IG0XBE0G.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "IG0XBE0G"
 } ]
