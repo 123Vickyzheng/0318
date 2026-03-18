@@ -7250,4 +7250,16 @@
   "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑3.json", "documents/logic/服务端逻辑/逻辑3.metadata.json", "documents/logic/服务端逻辑/逻辑3.refId.json", "documents/ref-object/PRXYOR8L.json", "documents/ref-object/PRXYOR8L.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "PRXYOR8L"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/逻辑4",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T05:52:41.8006337Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑4.json", "documents/logic/服务端逻辑/逻辑4.metadata.json", "documents/logic/服务端逻辑/逻辑4.refId.json", "documents/ref-object/WWEUMGMD.json", "documents/ref-object/WWEUMGMD.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WWEUMGMD"
 } ]
