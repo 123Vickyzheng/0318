@@ -1,0 +1,152 @@
+{
+  "id" : "OFTC79BN",
+  "name" : "查询实体1详情_1",
+  "variables" : [ ],
+  "parameters" : [ {
+    "id" : "B14EZ9I2",
+    "name" : "主键",
+    "dataType" : {
+      "typeId" : "Integer"
+    }
+  } ],
+  "returnValues" : [ {
+    "id" : "YCYYEX49",
+    "name" : "实体",
+    "dataType" : {
+      "typeId" : "CB017PNA"
+    }
+  } ],
+  "allowExpressionCall" : false,
+  "enableTransaction" : true,
+  "diagram" : {
+    "nodes" : [ {
+      "id" : "E34XYLRP",
+      "name" : "开始",
+      "pluginName" : "",
+      "identifier" : "",
+      "attributes" : {
+        "position" : {
+          "x" : 30,
+          "y" : 216
+        }
+      },
+      "isStartPoint" : true
+    }, {
+      "id" : "G0EN5EKQ",
+      "name" : "查询实体1详情",
+      "pluginName" : "logic-data-operation",
+      "identifier" : "data-query",
+      "content" : {
+        "model" : {
+          "table" : {
+            "entityId" : "CB017PNA",
+            "tableAlias" : "实体1",
+            "dataSourceId" : "KKWWPEHH",
+            "columns" : [ {
+              "id" : "AWC0YRH7",
+              "columnId" : "PJ5FUIEL"
+            }, {
+              "id" : "EQAZZ8EQ",
+              "columnId" : "QNPG6A9Z"
+            }, {
+              "id" : "VQARY4QG",
+              "columnId" : "I5F5N2YY"
+            }, {
+              "id" : "IOMLLF14",
+              "columnId" : "C85OG3DP"
+            }, {
+              "id" : "XLNWMNXC",
+              "columnId" : "DJZ4L0T6"
+            }, {
+              "id" : "S4HOJHOL",
+              "columnId" : "RXXJCOEC"
+            }, {
+              "id" : "RDLTJSBQ",
+              "columnId" : "Q432O72X"
+            }, {
+              "id" : "R86QBRJR",
+              "columnId" : "FY6QPWY9"
+            } ]
+          },
+          "condition" : {
+            "conditionType" : 0,
+            "conditionItems" : [ {
+              "conditionType" : 2,
+              "conditionItems" : null,
+              "type" : 3,
+              "identifier" : "CB017PNA.PJ5FUIEL",
+              "name" : null,
+              "operator" : 0,
+              "value" : {
+                "type" : 6,
+                "identifier" : "B14EZ9I2",
+                "name" : null
+              },
+              "nullValueStrategy" : 0
+            } ]
+          },
+          "groupBy" : null,
+          "orderBy" : {
+            "identifiers" : [ {
+              "id" : "YOIWQ736",
+              "columnIdentifier" : {
+                "type" : 3,
+                "identifier" : "CB017PNA.PJ5FUIEL",
+                "name" : null
+              },
+              "orderIdentifier" : {
+                "type" : 6,
+                "identifier" : "MKJRE5LE.OKJUY1IK",
+                "name" : null
+              }
+            } ]
+          },
+          "pagination" : null,
+          "extra" : null,
+          "deletedTableConfigs" : null
+        },
+        "property" : {
+          "queryMode" : 1,
+          "typeMode" : "specific",
+          "specificType" : {
+            "typeId" : "CB017PNA"
+          },
+          "returnTo" : {
+            "type" : "variable",
+            "variable" : "YCYYEX49"
+          }
+        }
+      },
+      "attributes" : {
+        "position" : {
+          "x" : 122,
+          "y" : 216
+        }
+      }
+    }, {
+      "id" : "FY2BVYS4",
+      "name" : "结束",
+      "pluginName" : "logic-core",
+      "identifier" : "return",
+      "attributes" : {
+        "position" : {
+          "x" : 382,
+          "y" : 216
+        }
+      }
+    } ],
+    "edges" : [ {
+      "id" : "JAJI5NZM",
+      "sourceId" : "E34XYLRP",
+      "targetId" : "G0EN5EKQ",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    }, {
+      "id" : "S267QSHX",
+      "sourceId" : "G0EN5EKQ",
+      "targetId" : "FY2BVYS4",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    } ]
+  }
+}
