@@ -1,9 +1,8 @@
 {
-  "type" : "entityModel",
   "id" : "CB017PNA",
-  "name" : "实体1",
-  "tableName" : "实体1",
   "dataSourceId" : "KKWWPEHH",
+  "tableName" : "实体1",
+  "name" : "实体1",
   "columns" : [ {
     "type" : "entityColumnModel",
     "id" : "PJ5FUIEL",
@@ -73,7 +72,10 @@
     "isUnique" : false,
     "isAutoIncrement" : false,
     "columnKind" : "physical",
-    "defaultValue" : true
+    "defaultValue" : "true",
+    "precision" : 2000000000,
+    "scale" : 0,
+    "columnLength" : 2000000000
   }, {
     "type" : "entityColumnModel",
     "id" : "DJZ4L0T6",
@@ -212,6 +214,9 @@
     "isUnique" : false,
     "columnKind" : "physical"
   } ],
+  "type" : "entityModel",
+  "columnExtensionLoaded" : true,
+  "originalPath" : "/默认数据源/实体1",
   "indexes" : [ {
     "indexName" : "sqlite_autoindex_实体1_1",
     "isUnique" : true,
@@ -222,6 +227,5 @@
       "columnId" : "PJ5FUIEL",
       "order" : "ASC"
     } ]
-  } ],
-  "columnExtensionLoaded" : true
+  } ]
 }
