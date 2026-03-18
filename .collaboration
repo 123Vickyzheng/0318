@@ -7298,4 +7298,88 @@
   "resourcePaths" : [ "documents/logic/服务端逻辑/0318_1_1/查询0318_1详情_1.json", "documents/logic/服务端逻辑/0318_1_1/查询0318_1详情_1.metadata.json", "documents/logic/服务端逻辑/0318_1_1/查询0318_1详情_1.refId.json", "documents/ref-object/WHB2PYQ7.json", "documents/ref-object/WHB2PYQ7.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "WHB2PYQ7"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0318_1_2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T05:33:03.1694696Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0318_1_2", "documents/logic/服务端逻辑/0318_1_2/.f.metadata.json", "documents/logic/服务端逻辑/0318_1_2/.f.json", "documents/ref-object/QERP1KWC.json", "documents/ref-object/QERP1KWC.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "QERP1KWC"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0318_1_2/创建0318_1_2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T05:33:03.1694696Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0318_1_2/创建0318_1_2.json", "documents/logic/服务端逻辑/0318_1_2/创建0318_1_2.metadata.json", "documents/logic/服务端逻辑/0318_1_2/创建0318_1_2.refId.json", "documents/ref-object/XRDBTJ50.json", "documents/ref-object/XRDBTJ50.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "XRDBTJ50"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0318_1_2/创建或更改0318_1_2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T05:33:03.1694696Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0318_1_2/创建或更改0318_1_2.json", "documents/logic/服务端逻辑/0318_1_2/创建或更改0318_1_2.metadata.json", "documents/logic/服务端逻辑/0318_1_2/创建或更改0318_1_2.refId.json", "documents/ref-object/JTJQ1YPT.json", "documents/ref-object/JTJQ1YPT.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "JTJQ1YPT"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0318_1_2/更改0318_1_2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T05:33:03.1694696Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0318_1_2/更改0318_1_2.json", "documents/logic/服务端逻辑/0318_1_2/更改0318_1_2.metadata.json", "documents/logic/服务端逻辑/0318_1_2/更改0318_1_2.refId.json", "documents/ref-object/I613BQRC.json", "documents/ref-object/I613BQRC.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "I613BQRC"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0318_1_2/删除0318_1_2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T05:33:03.1694696Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0318_1_2/删除0318_1_2.json", "documents/logic/服务端逻辑/0318_1_2/删除0318_1_2.metadata.json", "documents/logic/服务端逻辑/0318_1_2/删除0318_1_2.refId.json", "documents/ref-object/PMUVM9J2.json", "documents/ref-object/PMUVM9J2.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "PMUVM9J2"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0318_1_2/查询0318_1_2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T05:33:03.1694696Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0318_1_2/查询0318_1_2.json", "documents/logic/服务端逻辑/0318_1_2/查询0318_1_2.metadata.json", "documents/logic/服务端逻辑/0318_1_2/查询0318_1_2.refId.json", "documents/ref-object/FWMNH7WE.json", "documents/ref-object/FWMNH7WE.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "FWMNH7WE"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/0318_1_2/查询0318_1详情_2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T05:33:03.1694696Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/0318_1_2/查询0318_1详情_2.json", "documents/logic/服务端逻辑/0318_1_2/查询0318_1详情_2.metadata.json", "documents/logic/服务端逻辑/0318_1_2/查询0318_1详情_2.refId.json", "documents/ref-object/GWH4O37R.json", "documents/ref-object/GWH4O37R.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "GWH4O37R"
 } ]
