@@ -293,7 +293,13 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "sqlserver/0318",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T02:34:55.1169798Z",
+  "resourcePaths" : [ "documents/entity/sqlserver/0318.json", "documents/entity/sqlserver/0318.metadata.json", "documents/entity/sqlserver/0318.refId.json", "documents/ref-object/GXSCVNBC.json", "documents/ref-object/GXSCVNBC.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "GXSCVNBC"
 }, {
