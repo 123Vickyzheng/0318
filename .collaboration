@@ -317,37 +317,19 @@
 }, {
   "moduleType" : "datasource",
   "moduleName" : "postgres",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T02:58:31.2812914Z",
-  "resourcePaths" : [ "documents/datasource/postgres.json", "documents/datasource/postgres.metadata.json", "documents/datasource/postgres.refId.json", "documents/ref-object/FOIXP0QE.json", "documents/ref-object/FOIXP0QE.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "FOIXP0QE"
 }, {
   "moduleType" : "entity",
   "moduleName" : "postgres",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T02:58:31.2812914Z",
-  "resourcePaths" : [ "documents/entity/postgres", "documents/entity/postgres/.f.metadata.json", "documents/entity/postgres/.f.json", "documents/ref-object/H2ODCIFG.json", "documents/ref-object/H2ODCIFG.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "H2ODCIFG"
 }, {
   "moduleType" : "entity-relation",
   "moduleName" : "postgres",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T02:58:31.2812914Z",
-  "resourcePaths" : [ "documents/entity-relation/postgres", "documents/entity-relation/postgres/.f.metadata.json", "documents/entity-relation/postgres/.f.json", "documents/ref-object/CY1GFF7D.json", "documents/ref-object/CY1GFF7D.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "CY1GFF7D"
 } ]
