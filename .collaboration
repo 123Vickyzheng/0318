@@ -280,7 +280,13 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T02:21:54.0417688Z",
+  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/CB017PNA.json", "documents/ref-object/CB017PNA.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "CB017PNA",
   "exclusiveType" : "KKWWPEHH"
