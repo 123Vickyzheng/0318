@@ -184,7 +184,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T05:37:28.9895065Z",
+  "resourcePaths" : [ "documents/page/PC", "documents/page/PC/.f.metadata.json", "documents/page/PC/.f.json" ],
   "resourceType" : "Folder",
   "resourceId" : "BHH45MZE"
 }, {
