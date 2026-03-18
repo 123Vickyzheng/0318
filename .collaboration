@@ -311,13 +311,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "sqlserver/0318_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T02:30:12.3601039Z",
-  "resourcePaths" : [ "documents/entity/sqlserver/0318_1.json", "documents/entity/sqlserver/0318_1.metadata.json", "documents/entity/sqlserver/0318_1.refId.json", "documents/ref-object/VN5KGAJI.json", "documents/ref-object/VN5KGAJI.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "VN5KGAJI"
 } ]
