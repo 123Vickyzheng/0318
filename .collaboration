@@ -58,13 +58,7 @@
 }, {
   "moduleType" : "global-event-handler",
   "moduleName" : "客户端全局事件/requestCompleted",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T02:25:25.765806Z",
-  "resourcePaths" : [ "documents/global-event-handler/客户端全局事件/requestCompleted.json", "documents/global-event-handler/客户端全局事件/requestCompleted.metadata.json", "documents/global-event-handler/客户端全局事件/requestCompleted.refId.json", "documents/ref-object/ASHF7PNK.json", "documents/ref-object/ASHF7PNK.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "ASHF7PNK"
 }, {
@@ -299,13 +293,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "sqlserver/0318",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T02:23:18.0518549Z",
-  "resourcePaths" : [ "documents/entity/sqlserver/0318.json", "documents/entity/sqlserver/0318.metadata.json", "documents/entity/sqlserver/0318.refId.json", "documents/ref-object/GXSCVNBC.json", "documents/ref-object/GXSCVNBC.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "GXSCVNBC"
 }, {
