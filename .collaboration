@@ -280,13 +280,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "默认数据源/实体1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T02:21:54.0417688Z",
-  "resourcePaths" : [ "documents/entity/默认数据源/实体1.json", "documents/entity/默认数据源/实体1.metadata.json", "documents/entity/默认数据源/实体1.refId.json", "documents/ref-object/CB017PNA.json", "documents/ref-object/CB017PNA.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "CB017PNA",
   "exclusiveType" : "KKWWPEHH"
@@ -299,13 +293,7 @@
 }, {
   "moduleType" : "entity",
   "moduleName" : "sqlserver/0318",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T02:22:30.5136962Z",
-  "resourcePaths" : [ "documents/entity/sqlserver/0318.json", "documents/entity/sqlserver/0318.metadata.json", "documents/entity/sqlserver/0318.refId.json", "documents/ref-object/GXSCVNBC.json", "documents/ref-object/GXSCVNBC.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "GXSCVNBC"
 }, {
