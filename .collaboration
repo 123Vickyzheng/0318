@@ -335,85 +335,43 @@
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/实体1_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T03:08:57.8461956Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/实体1_1", "documents/logic/服务端逻辑/实体1_1/.f.metadata.json", "documents/logic/服务端逻辑/实体1_1/.f.json", "documents/ref-object/L8W1KC1Q.json", "documents/ref-object/L8W1KC1Q.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "L8W1KC1Q"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/实体1_1/创建实体1_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T03:08:57.8461956Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/实体1_1/创建实体1_1.json", "documents/logic/服务端逻辑/实体1_1/创建实体1_1.metadata.json", "documents/logic/服务端逻辑/实体1_1/创建实体1_1.refId.json", "documents/ref-object/DW8WYS2C.json", "documents/ref-object/DW8WYS2C.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "DW8WYS2C"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/实体1_1/创建或更改实体1_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T03:08:57.8461956Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/实体1_1/创建或更改实体1_1.json", "documents/logic/服务端逻辑/实体1_1/创建或更改实体1_1.metadata.json", "documents/logic/服务端逻辑/实体1_1/创建或更改实体1_1.refId.json", "documents/ref-object/DK8CY9S8.json", "documents/ref-object/DK8CY9S8.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "DK8CY9S8"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/实体1_1/更改实体1_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T03:08:57.8461956Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/实体1_1/更改实体1_1.json", "documents/logic/服务端逻辑/实体1_1/更改实体1_1.metadata.json", "documents/logic/服务端逻辑/实体1_1/更改实体1_1.refId.json", "documents/ref-object/UC3B1XZW.json", "documents/ref-object/UC3B1XZW.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "UC3B1XZW"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/实体1_1/删除实体1_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T03:08:57.8461956Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/实体1_1/删除实体1_1.json", "documents/logic/服务端逻辑/实体1_1/删除实体1_1.metadata.json", "documents/logic/服务端逻辑/实体1_1/删除实体1_1.refId.json", "documents/ref-object/X49U9OV2.json", "documents/ref-object/X49U9OV2.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "X49U9OV2"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/实体1_1/查询实体1_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T03:08:57.8461956Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/实体1_1/查询实体1_1.json", "documents/logic/服务端逻辑/实体1_1/查询实体1_1.metadata.json", "documents/logic/服务端逻辑/实体1_1/查询实体1_1.refId.json", "documents/ref-object/TZ1FVDJN.json", "documents/ref-object/TZ1FVDJN.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "TZ1FVDJN"
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/实体1_1/查询实体1详情_1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-18T03:08:57.8461956Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/实体1_1/查询实体1详情_1.json", "documents/logic/服务端逻辑/实体1_1/查询实体1详情_1.metadata.json", "documents/logic/服务端逻辑/实体1_1/查询实体1详情_1.refId.json", "documents/ref-object/OFTC79BN.json", "documents/ref-object/OFTC79BN.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "OFTC79BN"
 } ]
