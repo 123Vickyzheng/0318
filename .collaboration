@@ -7274,4 +7274,16 @@
   "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑5.json", "documents/logic/服务端逻辑/逻辑5.metadata.json", "documents/logic/服务端逻辑/逻辑5.refId.json", "documents/ref-object/W0RO22Z3.json", "documents/ref-object/W0RO22Z3.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "W0RO22Z3"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/系统逻辑/逻辑6",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-18T06:04:59.9298869Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/系统逻辑/逻辑6.json", "documents/logic/服务端逻辑/系统逻辑/逻辑6.metadata.json", "documents/logic/服务端逻辑/系统逻辑/逻辑6.refId.json", "documents/ref-object/OSUKIXAD.json", "documents/ref-object/OSUKIXAD.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "OSUKIXAD"
 } ]
